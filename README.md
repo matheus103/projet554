@@ -5,3 +5,5 @@ The project falls in several parts related to the different methods applizd. Bas
 - Load.py imports the whole content of ChatPotte, and add the code lines to import data into variables used in other Python programs.
 - w2v-like files are dedicated to a peculiar type of word embedding. It's mainly used in for BERT and GloVe methods using transfer learning based on text.
 - Each other file is caracteristic of an algorithm to answer our problem.
+
+Our main codes are "RegClassExtremTrees.py"" and "w2vec dropout.py"" which are the two models described in our report.
